@@ -31,11 +31,8 @@ Sou um desenvolvedor web apaixonado por aprender, criar e colaborar. 🚀
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerxv&layout=donut&theme=radical)]
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wagnerxv/wagnerxv/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wagnerxv/wagnerxv/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wagnerxv/wagnerxv/output/pacman-contribution-graph.svg">
-</picture>
+<!-- For SVG -->
+<img src="https://pacman.abozanona.me?username=wagner" />
 
 
 ## 🌎 Vamos nos conectar?
