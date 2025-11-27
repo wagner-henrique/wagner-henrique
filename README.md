@@ -20,8 +20,9 @@ Sou um desenvolvedor web apaixonado por aprender, criar e colaborar. 🚀
 
 ## 🚀 Principais projetos
 
-- ([Capacita TG](https://capacitatg.vercel.app/index.html))  
+- ([Capacita TG](https://capacitatg.com.br))  
 - ([Site da PrimeCode Solutions](https://primeecode.com.br/))
+- ([Voltaic AI](https://github.com/wagnerxv/Voltaic-AI))
 
 *(Quer saber mais sobre algum projeto? Me chame ou confira os repositórios!)*
 
