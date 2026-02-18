@@ -41,7 +41,7 @@ Desenvolvedor Back-end focado em construir soluções escaláveis e eficientes. 
   <a href="https://instagram.com/wagner.nsci" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="mailto:seu-email@exemplo.com">
+  <a href="mailto:whns1@aluno.ifal.edu.br">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
